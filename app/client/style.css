@@ -1,0 +1,8 @@
+.digits-background {
+  background: url('images/macbook.jpeg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.digits-background-color {
+  background-color: #2185D0;
+}
