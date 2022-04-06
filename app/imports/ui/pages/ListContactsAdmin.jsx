@@ -13,7 +13,7 @@ class ListContactsAdmin extends React.Component {
     return (this.props.ready) ? this.renderPage() : <Loader active>Getting data</Loader>;
   }
 
-  // Render the page once subscriptions have been received .
+  // Render the page once subscriptions have been received.
   renderPage() {
     return (
       <Container>
